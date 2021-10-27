@@ -4,6 +4,9 @@ this is a random fact "spammer" using selenium and pyautogui
 
 <hr>
 
+### update:
+not working with the current chromedriver verison 
+
 ### How to use:
 
 - Clone this repository 
