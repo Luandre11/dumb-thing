@@ -16,18 +16,7 @@ not working with the current chromedriver verison
   ```
 -Config your preferences in the config.json file
 
-
-### 1st Note:
-
-- you must have chrome and the chrome driver installed, and give as the path, the driver location hehe 
-
-### 2nd Note:
-
-It is adviced to do fair use of this program, It is better to keep a high delay so it is not considered  spam, **It is adviced not to use to bother people**
-
-### About:
-
-I wrote this while i was bored in physics class
+n physics class
 
 <hr>
 <h2 align="center"> Apple </h2>
